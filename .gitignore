@@ -1,5 +1,4 @@
 *.pyc
-setup.py
 MANIFEST
 MANIFEST.in
 dist/
